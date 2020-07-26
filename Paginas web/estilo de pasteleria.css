@@ -1,0 +1,83 @@
+@charset "utf-8";
+.verde {
+	background-color:#6C0;
+	margin:0px;
+	padding:0px;
+
+}
+.titulo{
+	border-radius:15px;
+	width:1600px;
+	height:120px;
+	background-color:#FF9;
+	margin:0px;
+	padding:0px;
+}
+.titulo {
+	font-size: 56px;
+	color: #000;
+}
+a{
+	text-decoration:none;
+}
+nav{
+	height:40px;
+}
+nav ul{
+	list-style:none;
+	margin:0px;
+	padding:0px
+	}
+nav ul li a{
+	color:#FFF;	
+	line-width:40px;
+	padding:20px 0px;
+	display:block;
+}
+nav ul li a:hover{
+	background-color:#FF9;
+	color:#000;
+}
+body {
+	background-color: #FF9;
+	font-size: 36px;
+	color: #FF9;
+}
+form {
+	color: #000;
+	border-radius: 15px;
+	width: 500px;
+	height: 320px;
+	background-color: #960;
+}
+table{
+	background-color:#FFF;
+}
+table {
+	border-bottom-color:#FFC;
+	border-color:#FFC;
+}
+p {
+	font-size: 24px;
+	color: #960;
+	font-style: italic;
+}
+h2 {
+	font-size: 36px;
+	color: #000;
+}
+fondo {
+	background:url(fondo1.png);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+/* CSS Document
+.body1 blockquote blockquote blockquote table tr td blockquote p {
+	font-style: italic;
+}
+.negro {
+	color: #000;
+}
+.verde blockquote .titulo .negro {
+	color: #000;
+}
